@@ -18,6 +18,11 @@ P for paragraph
 
 ## chapter 8
 
+<!-- this is how you make comments -->
+Block elements that start a new line are h1 p ul and li
+
+Inline (same line) elements are a b em img
+
 ## chapter 17
 
 ## chapter 18
