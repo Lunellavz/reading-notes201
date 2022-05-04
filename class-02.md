@@ -30,9 +30,23 @@ Semantic markup:
 
 ## Chapter 10
 
+For CSS rule, there is 2 parts: selector and declaration
+
+-Selector indicat3es what part of html will be modified and the decloration indicates how it will be styled.
+
 JS and JQuery by Jon Duckett
 
 ## Chapter 2
+
+Script and statements tell the computer what to do step by step
+
+Javascript is case sensitive
+
+Writing comments in your code helps you understand and keep track of codes that you write.
+
+Comments are made using / * or for single line comment / /
+
+
 
 ## Chapter 4
 
