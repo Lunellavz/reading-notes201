@@ -21,7 +21,21 @@ When content is overflowing you can use overflow: hidden, or overflow: scroll, (
 
 Every box has three properties; border, margin and padding (p 307)
 
-You can use the border-width property with thin, medium and thick. Y9ou can NOT use percentages with border-width
+## Border
+
+You can use the border-width property with thin, medium and thick or pixels. You can NOT use percentages with border-width.
+To control individual size of borders use; border-top-width, border-right-width, border-left-width, border-bottom-wdith.
+
+You can customize the border style using border-style: (style);. You can do dotted, soilid, dashed, ect... You can individually control the sides of border using
+border-top-style, border-left-style, border-right-style, border-bottom-style.
+
+Going above and beyond: you can customize each side of the border using; border-top-color, border-right-color, border-bottom-color, border-left-color.
+
+You can use the border property and specify the width, style, and color of border in that order; border: 3px dotted #0088dd; (p 312).
+
+## Padding
+
+Padding is how much space should appear between content of an element and its border.
 
 
 
