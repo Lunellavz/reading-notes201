@@ -12,7 +12,7 @@ Nested lists; you can make nested lists with the < ul > and < li >
 
 ## Chapter 13
 
-
+Box Dimensions; when you need to make your own dimensions on 
 
 JS and JQuery by Jon Duckett
 
