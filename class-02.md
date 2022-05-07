@@ -50,4 +50,30 @@ Comments are made using / * or for single line comment / /
 
 ## Chapter 4
 
+3 things to keep in mind for flowcharts:
 
+Evaluations
+
+Decisions
+
+Loops
+
+== is equal to; 'hello' == 'hello' returns true, anything other thank 'hello' will return as false.
+
+!= is not equal to; 'hello' != "goodbye" returns a true, anything other than 'hello', will return as true.
+
+>, <, greather than or less than
+
+=== is stricly equal to; '3'===3 returns as false, since '3' is a string.
+
+!== strictly not equal to; '3' !== 3 return as true.
+
+>=, <=; greater than or equal, less than or equal.
+
+&& logical and; " if both expressions evaluate to true then the expression returns true. If just one of these returns false, then the expression
+will return false." ( p 157)
+
+|| logical or; " if **either** expression evalutes to true, the expression is true. If **both** return false, then its false."
+
+! logical not; "This reverses the state of an expression. If it was false (without the ! before it) it would reutnr true. If the
+statement was true, it would return false." !true= false, !flase=true
