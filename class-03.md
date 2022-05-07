@@ -2,7 +2,17 @@
 
 ## Chapter 3
 
+< ol > ordered list, use < li > for each listed iteam
+
+< ul > unordered list, use < li > as well
+
+< dl > defintion list, use < dt > for the term being defines and < dd > for the definition
+
+Nested lists; you can make nested lists with the < ul > and < li >
+
 ## Chapter 13
+
+
 
 JS and JQuery by Jon Duckett
 
