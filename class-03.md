@@ -36,7 +36,11 @@ You can use the border property and specify the width, style, and color of borde
 ## Padding
 
 Padding is how much space should appear between content of an element and its border.
+Usually you use pixels but it is possible to use percentages and ems.
 
+## Margin
+
+The margin controls the gap between boxes.
 
 
 JS and JQuery by Jon Duckett
