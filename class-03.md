@@ -1,4 +1,4 @@
-#HTML and CSS by Jon Duckett
+# HTML and CSS by Jon Duckett
 
 ## Chapter 3
 
@@ -42,9 +42,10 @@ Usually you use pixels but it is possible to use percentages and ems.
 
 The margin controls the gap between boxes.
 
-
-JS and JQuery by Jon Duckett
+# JS and JQuery by Jon Duckett
 
 ## Chapter 2 Review
+
+
 
 ## Chapter 4 (starting 162)
