@@ -59,4 +59,6 @@ that should run if the varaible matches that value. " (p 164)
 
 -while loops are for when you dont know how many times a code should run ( as long as code is true)
 
--Do while loops: 
+-Do while loops: similar to while loops however will still run if false.
+
+
