@@ -50,3 +50,5 @@ If else statements allow you to include a code block if user answers false.
 -The difference between if and if else statements; **If** statements only runs statements if condition is true.
 - **If else** staements runs a condtion depending on if true or false, and has seperate conditions.
 
+switch statements; " A switch tsatement starts with a varaible called the swtich value. Each case indicates a possible value for this variable and the code
+that should run if the varaible matches that value.
