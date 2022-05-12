@@ -51,4 +51,12 @@ If else statements allow you to include a code block if user answers false.
 - **If else** staements runs a condtion depending on if true or false, and has seperate conditions.
 
 switch statements; " A switch tsatement starts with a varaible called the swtich value. Each case indicates a possible value for this variable and the code
-that should run if the varaible matches that value.
+that should run if the varaible matches that value. " (p 164)
+
+## Loops
+
+-For loops; "if you need to run code a specific number of times, use for loop." (p 170)
+
+-while loops are for when you dont know how many times a code should run ( as long as code is true)
+
+-Do while loops: 
