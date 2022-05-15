@@ -2,7 +2,15 @@
 
 ## Chapter 4
 
+Use < a > tag when using links followed by href
+
+You can create an email link using the < ancor tag, href and mailto:user@lalala > Email person < ancor tag >
+
+Opening a new link requires the target attribute.
+
 ## CHapter 15
+
+
 
 # **JS and JQuerey by Jon Duckett**
 
@@ -22,10 +30,9 @@ function to perform that task whenever needed." (p 90)
 
 Calling a function; use function name followed by paretheses.
 
-Parameters vs Arguments;
-
-
-
-
+Functions can return more than one value using an array
 
 # **Article; *6 Reasons for Pair Programming* by Allie Grampa**
+
+-notes: I never thought pair programming was even a thing. I think pair programming would be a great way to learn someone
+elses thinking and learn new ways to code.
