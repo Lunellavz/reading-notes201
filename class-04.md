@@ -12,15 +12,24 @@ Opening a new link requires the target attribute.
 
 In CSS there are several different types of positioning schemes:
 
--Normal flow; Defautl for browsers, block-level element sits on top of the next one. 
+Normal flow; Defautl for browsers, block-level element sits on top of the next one. 
 
--Relative positioning; moves elemtns in relation to where it would have been in normal flow.
+Relative positioning; moves elemtns in relation to where it would have been in normal flow.
 
--Absolute postioning:
+Absolute postioning
 
--Fixed positioning:
+Fixed positioning
 
--Floating Elements:
+Floating Elements
+
+Overlapping elements use the z-index property
+
+To do multi-column layouts without floats is done by ausing <div> to rep each column
+  
+Fixed width layouts; do not change size for user when they decrease or increase size of browser.
+Liquid layouts; stretch and contrast to users.
+  
+A widely used grid layout is called the 960 pixel grid
 
 
 # **JS and JQuerey by Jon Duckett**
