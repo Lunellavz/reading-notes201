@@ -10,6 +10,17 @@ Opening a new link requires the target attribute.
 
 ## CHapter 15
 
+In CSS there are several different types of positioning schemes:
+
+-Normal flow; Defautl for browsers, block-level element sits on top of the next one. 
+
+-Relative positioning; moves elemtns in relation to where it would have been in normal flow.
+
+-Absolute postioning:
+
+-Fixed positioning:
+
+-Floating Elements:
 
 
 # **JS and JQuerey by Jon Duckett**
